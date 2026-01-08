@@ -114,7 +114,7 @@ member — CareNest connects you with trained professionals.
   📫 Connect With Me
 
   - GitHub: https://github.com/kohinurfatema
-  - LinkedIn: https://linkedin.com/in/your-linkedin
+  - LinkedIn: [https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/kohinur-fatema-2a81653a2/)
 
   📝 License
 
